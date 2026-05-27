@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvave",
+        "uuid": 21484461,
+        "checksum": "7ixb4h"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
